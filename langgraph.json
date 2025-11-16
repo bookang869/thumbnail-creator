@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "graph.py"
+  ],
+  "graphs": {
+    "thumbnail-creator": "./graph.py:graph"
+  },
+  "env": ".env"
+}
